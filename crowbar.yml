@@ -37,8 +37,9 @@ barclamp:
     - glance
     - swift
     - kong
+    - quantum
   os_support:
-    - ubuntu-10.10
+    - ubuntu-11.10
 
 crowbar:
   layout: 1
